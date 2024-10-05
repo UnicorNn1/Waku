@@ -3,5 +3,5 @@ Waku is a suite of generalised messaging protocols aiming to be the communicatio
 
 Waku serves as the communications layer of the Logos tech stack. Alongside the trustless agreement layer, Nomos, and the storage layer, Codex, it is one of the Logos Collective's foundational projects.
 
-### Coming Soon
+### Install Coming Soon
 
